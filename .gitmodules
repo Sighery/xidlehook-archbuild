@@ -1,0 +1,3 @@
+[submodule "xidlehook"]
+	path = xidlehook
+	url = https://aur.archlinux.org/xidlehook.git
